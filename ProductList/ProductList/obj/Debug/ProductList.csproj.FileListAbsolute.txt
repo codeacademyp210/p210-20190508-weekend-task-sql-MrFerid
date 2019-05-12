@@ -1,0 +1,12 @@
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\bin\Debug\ProductList.exe.config
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\bin\Debug\ProductList.exe
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\bin\Debug\ProductList.pdb
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\obj\Debug\ProductList.csprojAssemblyReference.cache
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\obj\Debug\ProductList.Form1.resources
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\obj\Debug\ProductList.Form2.resources
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\obj\Debug\ProductList.Properties.Resources.resources
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\obj\Debug\ProductList.csproj.GenerateResource.cache
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\obj\Debug\ProductList.csproj.CoreCompileInputs.cache
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\obj\Debug\ProductList.exe
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\obj\Debug\ProductList.pdb
+C:\Users\santa\OneDrive\Desktop\ProductList\ProductList\obj\Debug\ProductList.Form3.resources
